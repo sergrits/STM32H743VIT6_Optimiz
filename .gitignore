@@ -1,0 +1,20 @@
+# Build outputs
+Debug/
+Release/
+
+# CubeIDE / Eclipse
+.settings/
+*.launch
+
+# Optional
+*.o
+*.d
+*.su
+*.map
+*.elf
+*.list
+*.cyclo
+
+# OS
+.DS_Store
+Thumbs.db
